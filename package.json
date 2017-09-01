@@ -1,0 +1,24 @@
+{
+  "name": "gitnpmtest",
+  "version": "1.0.0",
+  "description": "This is git and npm combination",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jainswapnil90/npmtestingjasw.git"
+  },
+  "keywords": [
+    "d3",
+    "npm",
+    "git"
+  ],
+  "author": "swapnil jain",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/jainswapnil90/npmtestingjasw/issues"
+  },
+  "homepage": "https://github.com/jainswapnil90/npmtestingjasw#readme"
+}
